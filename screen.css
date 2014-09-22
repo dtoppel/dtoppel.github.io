@@ -6,7 +6,7 @@ html {
   font-size: 18px;
   line-height: 24px;
   color: black;
-  background:url('background.jpg') /*The image is not to scale*/;
+  background:url('background.jpg');
   background-size: 100%;
 }
 h1{ /*figure out how to format text background*/
