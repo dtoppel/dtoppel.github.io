@@ -1,0 +1,26 @@
+html {
+  -webkit-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+  font-size: 18px;
+  line-height: 24px;
+  color: black;
+  background:url('background.jpg') /*The image is not to scale*/;
+  background-size: 100%;
+}
+h1{ /*figure out how to format text background*/
+  font-size: 36px;
+  line-height: 42px;
+  margin-top: 6px;
+  background-color: #98AFC7; /*text background is extending to entire page. Needs to be fixed*/
+}
+p {
+  color: black;
+  margin-top: 6px;
+  background-color: #98AFC7;
+}
+footer{
+  font-size: 12px;
+  margin-top: 6px;
+  background-color: #98AFC7;
