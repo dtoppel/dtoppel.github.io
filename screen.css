@@ -6,15 +6,12 @@ html {
   font-size: 18px;
   line-height: 24px;
   color: black;
-<<<<<<< HEAD
   background-image:url(background.JPG);
-=======
-  background:url('background.JPG')
->>>>>>> origin/master
+  background:url('background.JPG');
   background-size: 100%;
   background-color: #CAE1FF;
   background-repeat: no-repeat;
-  font-family: Arial, Helvetica, Droid Sans
+  font-family: Arial, Helvetica, Droid Sans;
 }
 figure {
   display: block;
