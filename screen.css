@@ -12,6 +12,20 @@ html {
   background-color: #CAE1FF;
   background-repeat: no-repeat;
   font-family: Arial, Helvetica, Droid Sans;
+<<<<<<< HEAD
+=======
+}
+figure {
+  display: block;
+  background-color: #98AFC7;
+  border-style: ridge;
+  border-color:black;
+  border-width: 4px;;
+  text-align:center;
+  margin-top:8px;
+  font-size: 12px;
+  padding:8px;
+>>>>>>> origin/master
 }
 
 img {
