@@ -12,8 +12,6 @@ html {
   background-color: #CAE1FF;
   background-repeat: no-repeat;
   font-family: Arial, Helvetica, Droid Sans;
-<<<<<<< HEAD
-=======
 }
 figure {
   display: block;
@@ -25,7 +23,6 @@ figure {
   margin-top:8px;
   font-size: 12px;
   padding:8px;
->>>>>>> origin/master
 }
 
 img {
