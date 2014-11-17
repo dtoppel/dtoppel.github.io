@@ -13,16 +13,9 @@ html {
   background-repeat: no-repeat;
   font-family: Arial, Helvetica, Droid Sans;
 }
-figure {
-  display: block;
-  background-color: #98AFC7;
-  border-style: ridge;
-  border-color:black;
-  border-width: 4px;;
+
+figure{
   text-align:center;
-  margin-top:8px;
-  font-size: 12px;
-  padding:8px;
 }
 
 img {
@@ -54,7 +47,7 @@ h2{  font-size: 36px;
   border-style: ridge;
   border-color:black;
   border-width: 4px;
-  display:table;
+  display:block;
 
 }
 
