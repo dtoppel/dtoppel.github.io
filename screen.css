@@ -6,32 +6,20 @@ html {
   font-size: 18px;
   line-height: 24px;
   color: black;
-<<<<<<< HEAD
   background-image:url(background.JPG);
-=======
-  background:url('background.JPG')
->>>>>>> origin/master
+  background:url('background.JPG');
   background-size: 100%;
   background-color: #CAE1FF;
   background-repeat: no-repeat;
-  font-family: Arial, Helvetica, Droid Sans
+  font-family: Arial, Helvetica, Droid Sans;
 }
-figure {
-  display: block;
-  background-color: #98AFC7;
-  border-style: ridge;
-  border-color:black;
-  border-width: 4px;;
-  text-align:center;
-  margin-top:8px;
-  font-size: 12px;
-  padding:8px;
-}
+
 img {
   max-width: 40%;
   border-style: groove;
   border-color:black;
   border-width: 4px;
+  margin-top:8px;
 }
 
 h1{
@@ -51,12 +39,12 @@ h2{  font-size: 36px;
   margin-top: 8px;
   margin-bottom: 0px;
   background-color: #98AFC7;
+  padding: 8px;
   border-style: ridge;
   border-color:black;
   border-width: 4px;
-  padding: 8px;
-  opacity:.85;
-  text-align:center;
+  display:table;
+
 }
 
 p {
@@ -77,16 +65,8 @@ footer{
   font-size: 12px;
   margin-top: 6px;
   background-color: #98AFC7;
-<<<<<<< HEAD
   border-style: ridge;
   border-color:black;
   border-width: 4px;
   opacity:.85;
 }
-figcaption{
-  margin-bottom: 8px;
-}
-
-
-=======
->>>>>>> origin/master

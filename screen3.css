@@ -1,0 +1,13 @@
+html {
+  -webkit-text-size-adjust: 100%; /*Stylize font styles*/
+  -moz-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+  font-size: 18px;
+  line-height: 24px;
+  color: black;
+  background-size: 100%;
+  background-color: #CAE1FF;
+  background-repeat: no-repeat;
+  font-family: Arial, Helvetica, Droid Sans;
+}
